@@ -3,6 +3,7 @@ package javaconcepts;
 //Comparison operators : ==,>,<,>=,<=,!,=
 //Logical Operators    : &&,||,!
 //                       (and),OR, Not
+//Changes are done for the Branch to Branch transfer.
 public class AirthmeticOperators1 {
 
 		
