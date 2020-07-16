@@ -4,12 +4,12 @@ public class DataConverting14 {
 
 	public static void main(String[] args) {
 //Example 1 (String + Integer will return string only)
-		String str="100";
-		System.out.println(str+200);//output 100200
+		String str="400";
+		System.out.println(str+200);//output 400200
 	
 //Example 2
-		String str1="10.12";
-		System.out.println(str1+200);//output 10.12200
+		String str1="40.12";
+		System.out.println(str1+200);//output 40.12200
 		
 //Example 3
 		double dbl = Double.parseDouble(str1);
