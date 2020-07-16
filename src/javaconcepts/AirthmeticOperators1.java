@@ -3,7 +3,7 @@ package javaconcepts;
 //Comparison operators : ==,>,<,>=,<=,!,=
 //Logical Operators    : &&,||,!
 //                       (and),OR, Not
-//Changes are done for the Branch to Branch transfer.
+//Changes are done for the Branch to Branch transfer. So this will be copied in GITBranch.
 public class AirthmeticOperators1 {
 
 		
